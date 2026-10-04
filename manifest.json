@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-04T11:55:23Z",
+  "generatedAt": "2026-10-04T15:58:52Z",
   "lists": [
     {
       "id": "englisch/c5-welcome-teil-1",
@@ -49,16 +49,6 @@
       ],
       "count": 31,
       "sha256": "1cc5dda4cf3f6c221307c31ced16b3940105e379ea3c9c6b40e26aae21eace91"
-    },
-    {
-      "id": "franzoesisch/lektion-01-begruessung",
-      "path": "listen/franzoesisch/lektion-01-begruessung.md",
-      "title": "Französisch Lektion 1 – Begrüßung",
-      "from": "de",
-      "to": "fr",
-      "profiles": [],
-      "count": 10,
-      "sha256": "486b8c0520f501f0f77aeca062399e589271ca2cc46d61ea8dd288fdf3b664ce"
     },
     {
       "id": "japanisch/top1000-01",
