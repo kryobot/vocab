@@ -106,12 +106,16 @@ def main() -> int:
         print("\n".join(f"  ✗ {p}" for p in problems))
         return 1
 
-    manifest = {
-        "version": 1,
-        "generatedAt": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "lists": lists,
-    }
-    (ROOT / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    # Keep the old timestamp if nothing changed, so the GitHub Action doesn't commit on every push.
+    manifest_path = ROOT / "manifest.json"
+    generated_at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    if manifest_path.exists():
+        previous = json.loads(manifest_path.read_text(encoding="utf-8"))
+        if previous.get("lists") == lists:
+            generated_at = previous.get("generatedAt", generated_at)
+
+    manifest = {"version": 1, "generatedAt": generated_at, "lists": lists}
+    manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     total = sum(item["count"] for item in lists)
     print(f"✓ {len(lists)} Listen mit {total} Vokabeln → manifest.json")
     return 0
