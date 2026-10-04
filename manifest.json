@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-04T10:29:52Z",
+  "generatedAt": "2026-10-04T11:05:14Z",
   "lists": [
     {
       "id": "englisch/unit-01-tiere",
@@ -34,6 +34,126 @@
       "profiles": [],
       "count": 10,
       "sha256": "486b8c0520f501f0f77aeca062399e589271ca2cc46d61ea8dd288fdf3b664ce"
+    },
+    {
+      "id": "japanisch/top1000-01",
+      "path": "listen/japanisch/top1000-01.md",
+      "title": "Japanisch Top 1000 – Teil 1 (Wörter 1–100)",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 100,
+      "sha256": "8135f6b98d2140932234b0ad8c39fe93f4a3d697e946d6789847176120002c88"
+    },
+    {
+      "id": "japanisch/top1000-02",
+      "path": "listen/japanisch/top1000-02.md",
+      "title": "Japanisch Top 1000 – Teil 2 (Wörter 101–200)",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 100,
+      "sha256": "906a7336bdcfb36e72b12a9c02d63a260193462ccdf7a2e6896a3f55d9b54ca0"
+    },
+    {
+      "id": "japanisch/top1000-03",
+      "path": "listen/japanisch/top1000-03.md",
+      "title": "Japanisch Top 1000 – Teil 3 (Wörter 201–300)",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 100,
+      "sha256": "b3f0030abdd3072facb6df37faa3fd99f212a85a0da40f74a0abdbda0a52955c"
+    },
+    {
+      "id": "japanisch/top1000-04",
+      "path": "listen/japanisch/top1000-04.md",
+      "title": "Japanisch Top 1000 – Teil 4 (Wörter 301–400)",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 100,
+      "sha256": "693d962972c8fac46314360889b28148670e89369eb7ea53abd027f36e43329b"
+    },
+    {
+      "id": "japanisch/top1000-05",
+      "path": "listen/japanisch/top1000-05.md",
+      "title": "Japanisch Top 1000 – Teil 5 (Wörter 401–500)",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 100,
+      "sha256": "05b3ca73623b93e0c6a29f5d8e3da9c1f277d5b9a29b8fe746b1406e97f44745"
+    },
+    {
+      "id": "japanisch/top1000-06",
+      "path": "listen/japanisch/top1000-06.md",
+      "title": "Japanisch Top 1000 – Teil 6 (Wörter 501–600)",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 100,
+      "sha256": "a7d6de04e2d0dd92467f06af28d30b2c551b21a236f28c73beed3a8f6434a4f2"
+    },
+    {
+      "id": "japanisch/top1000-07",
+      "path": "listen/japanisch/top1000-07.md",
+      "title": "Japanisch Top 1000 – Teil 7 (Wörter 601–700)",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 100,
+      "sha256": "855471456c6a63bbaf087dd8e3b0decfccb0851fa88918e6b8763744904e7478"
+    },
+    {
+      "id": "japanisch/top1000-08",
+      "path": "listen/japanisch/top1000-08.md",
+      "title": "Japanisch Top 1000 – Teil 8 (Wörter 701–800)",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 100,
+      "sha256": "7aca1a50fbb731c5bf99cc444dcdfb0ee6a22d49b66a2421a9d11f91f84c17af"
+    },
+    {
+      "id": "japanisch/top1000-09",
+      "path": "listen/japanisch/top1000-09.md",
+      "title": "Japanisch Top 1000 – Teil 9 (Wörter 801–900)",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 100,
+      "sha256": "d6ab6ac0b84e9744ce3eee27c6a8f049bb7e8273d13fdb1f4da969d1a0f73372"
+    },
+    {
+      "id": "japanisch/top1000-10",
+      "path": "listen/japanisch/top1000-10.md",
+      "title": "Japanisch Top 1000 – Teil 10 (Wörter 901–1000)",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 100,
+      "sha256": "53b3497a9ed24bfcb58ed7c2913d0ce97521bd3c15e5928a7fcc78be0f13597f"
     }
   ]
 }
