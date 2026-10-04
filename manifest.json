@@ -1,29 +1,54 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-04T11:05:14Z",
+  "generatedAt": "2026-10-04T11:55:23Z",
   "lists": [
     {
-      "id": "englisch/unit-01-tiere",
-      "path": "listen/englisch/unit-01-tiere.md",
-      "title": "Englisch Unit 1 – Tiere",
+      "id": "englisch/c5-welcome-teil-1",
+      "path": "listen/englisch/c5-welcome-teil-1.md",
+      "title": "Camden Market 5 – Welcome (S. 10–11)",
       "from": "de",
       "to": "en",
       "profiles": [
-        "Hilda",
         "Johann"
       ],
-      "count": 15,
-      "sha256": "517054645aadf9eff61f142b8b8e6eff2ac459a6da0abc7dfb4f99928c01e52e"
+      "count": 31,
+      "sha256": "df20f2941bcc3628f4322abd2d7c12d3317eed765fd62dd83b91cdafd59b95a6"
     },
     {
-      "id": "englisch/unit-02-schule",
-      "path": "listen/englisch/unit-02-schule.md",
-      "title": "Englisch Unit 2 – In der Schule",
+      "id": "englisch/c5-welcome-teil-2",
+      "path": "listen/englisch/c5-welcome-teil-2.md",
+      "title": "Camden Market 5 – Welcome (S. 12–15)",
       "from": "de",
       "to": "en",
-      "profiles": [],
-      "count": 15,
-      "sha256": "a070924ffe09c19b6394e51a20377272a557e857746dae2005de22f700e6932a"
+      "profiles": [
+        "Johann"
+      ],
+      "count": 34,
+      "sha256": "b5211697e6f637556a895a571796ef10c1861a7be01631e25153eadb33f9a31e"
+    },
+    {
+      "id": "englisch/grammatik-to-be",
+      "path": "listen/englisch/grammatik-to-be.md",
+      "title": "Grammatik – Verb „to be“",
+      "from": "de",
+      "to": "en",
+      "profiles": [
+        "Johann"
+      ],
+      "count": 16,
+      "sha256": "cfcc3866dbb7dc0cb74ed7a1f4861dcc33eac9f32e5b99a8f0111d35a7845d27"
+    },
+    {
+      "id": "englisch/schule-klassenzimmer",
+      "path": "listen/englisch/schule-klassenzimmer.md",
+      "title": "School & The classroom",
+      "from": "de",
+      "to": "en",
+      "profiles": [
+        "Johann"
+      ],
+      "count": 31,
+      "sha256": "1cc5dda4cf3f6c221307c31ced16b3940105e379ea3c9c6b40e26aae21eace91"
     },
     {
       "id": "franzoesisch/lektion-01-begruessung",
