@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-04T10:29:35Z",
+  "lists": [
+    {
+      "id": "englisch/unit-01-tiere",
+      "path": "listen/englisch/unit-01-tiere.md",
+      "title": "Englisch Unit 1 – Tiere",
+      "from": "de",
+      "to": "en",
+      "profiles": [
+        "Hilda",
+        "Johann"
+      ],
+      "count": 15,
+      "sha256": "517054645aadf9eff61f142b8b8e6eff2ac459a6da0abc7dfb4f99928c01e52e"
+    },
+    {
+      "id": "englisch/unit-02-schule",
+      "path": "listen/englisch/unit-02-schule.md",
+      "title": "Englisch Unit 2 – In der Schule",
+      "from": "de",
+      "to": "en",
+      "profiles": [],
+      "count": 15,
+      "sha256": "a070924ffe09c19b6394e51a20377272a557e857746dae2005de22f700e6932a"
+    },
+    {
+      "id": "franzoesisch/lektion-01-begruessung",
+      "path": "listen/franzoesisch/lektion-01-begruessung.md",
+      "title": "Französisch Lektion 1 – Begrüßung",
+      "from": "de",
+      "to": "fr",
+      "profiles": [],
+      "count": 10,
+      "sha256": "486b8c0520f501f0f77aeca062399e589271ca2cc46d61ea8dd288fdf3b664ce"
+    }
+  ]
+}
