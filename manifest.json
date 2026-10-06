@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-06T08:45:22Z",
+  "generatedAt": "2026-10-06T11:23:07Z",
   "lists": [
     {
       "id": "englisch/c5-welcome-teil-1",
@@ -579,124 +579,472 @@
       "sha256": "4ad16839dd4dc28730cb232679c8646e510325d2b8a08e1559be4311e1586a14"
     },
     {
-      "id": "spanisch/top1000-01",
-      "path": "listen/spanisch/top1000-01.md",
-      "title": "Spanisch Top 1000 – Teil 1 (Wörter 1–100)",
+      "id": "spanisch/01-begruessung",
+      "path": "listen/spanisch/01-begruessung.md",
+      "title": "Spanisch 01 – Begrüßung & Höflichkeit",
       "from": "de",
       "to": "es",
       "profiles": [
         "Lotte"
       ],
-      "count": 100,
-      "sha256": "503ef7d1e0a9607feba0e9ceb428e94caad485124b15677d6ab86f99d020aa51"
+      "count": 26,
+      "sha256": "a99b67849c96886ddb5691dad792c3ca46c6f42afd8b8d6e6d7b55150880c007"
     },
     {
-      "id": "spanisch/top1000-02",
-      "path": "listen/spanisch/top1000-02.md",
-      "title": "Spanisch Top 1000 – Teil 2 (Wörter 101–200)",
+      "id": "spanisch/02-menschen",
+      "path": "listen/spanisch/02-menschen.md",
+      "title": "Spanisch 02 – Ich, du & die anderen",
       "from": "de",
       "to": "es",
       "profiles": [
         "Lotte"
       ],
-      "count": 100,
-      "sha256": "47c2b0ece0dcee3b9d6c84f975412f6dcc5876ada0cea771ee2727925539f0fa"
+      "count": 34,
+      "sha256": "98c372e1ec8192817d58b0607f8a6889779bfc7b53a8a2ea9ab02c58052bdc13"
     },
     {
-      "id": "spanisch/top1000-03",
-      "path": "listen/spanisch/top1000-03.md",
-      "title": "Spanisch Top 1000 – Teil 3 (Wörter 201–300)",
+      "id": "spanisch/03-fragewoerter",
+      "path": "listen/spanisch/03-fragewoerter.md",
+      "title": "Spanisch 03 – Fragewörter & Zeigewörter",
       "from": "de",
       "to": "es",
       "profiles": [
         "Lotte"
       ],
-      "count": 100,
-      "sha256": "33fda9d8d83912c6983161ae0eac8f33945665e93d6e7c01d3090f642f769113"
+      "count": 20,
+      "sha256": "9becd34fe4e17c303f929fd4efaad42dd375642e87c1c7219b0d2c8e78e8a060"
     },
     {
-      "id": "spanisch/top1000-04",
-      "path": "listen/spanisch/top1000-04.md",
-      "title": "Spanisch Top 1000 – Teil 4 (Wörter 301–400)",
+      "id": "spanisch/04-wichtige-verben",
+      "path": "listen/spanisch/04-wichtige-verben.md",
+      "title": "Spanisch 04 – Die wichtigsten Verben",
       "from": "de",
       "to": "es",
       "profiles": [
         "Lotte"
       ],
-      "count": 100,
-      "sha256": "cbc03395984170a88bb42b4b1e6248fc82e9c52ce2c2c0bef8cbd2e3a551e328"
+      "count": 28,
+      "sha256": "2bf117a34212047af920096b63c62042f2fa44ebbdfa33a50a4eb0c5ba2fafe9"
     },
     {
-      "id": "spanisch/top1000-05",
-      "path": "listen/spanisch/top1000-05.md",
-      "title": "Spanisch Top 1000 – Teil 5 (Wörter 401–500)",
+      "id": "spanisch/05-zahlen",
+      "path": "listen/spanisch/05-zahlen.md",
+      "title": "Spanisch 05 – Zahlen & Zählen",
       "from": "de",
       "to": "es",
       "profiles": [
         "Lotte"
       ],
-      "count": 100,
-      "sha256": "e0513b974964e1366ca59dcb7a8de45cf68c338d141c0a280fd61382eea7d322"
+      "count": 40,
+      "sha256": "f462afc3c39fa6cbe24e5ddc5d0dcfff1af32cb62d82a2a4e3fa453b3655e77a"
     },
     {
-      "id": "spanisch/top1000-06",
-      "path": "listen/spanisch/top1000-06.md",
-      "title": "Spanisch Top 1000 – Teil 6 (Wörter 501–600)",
+      "id": "spanisch/06-uhrzeit-kalender",
+      "path": "listen/spanisch/06-uhrzeit-kalender.md",
+      "title": "Spanisch 06 – Uhrzeit & Kalender",
       "from": "de",
       "to": "es",
       "profiles": [
         "Lotte"
       ],
-      "count": 100,
-      "sha256": "60e50b202dd93cc8b27fbf08ff80f1a93e3c9c38c426466603d78ed34ae34507"
+      "count": 30,
+      "sha256": "f68ffae5514e2290799446118680b9d2d64a5938f329f674bafd4ba135f2c6b3"
     },
     {
-      "id": "spanisch/top1000-07",
-      "path": "listen/spanisch/top1000-07.md",
-      "title": "Spanisch Top 1000 – Teil 7 (Wörter 601–700)",
+      "id": "spanisch/07-heute-frueher-spaeter",
+      "path": "listen/spanisch/07-heute-frueher-spaeter.md",
+      "title": "Spanisch 07 – Heute, morgen, früher, später",
       "from": "de",
       "to": "es",
       "profiles": [
         "Lotte"
       ],
-      "count": 100,
-      "sha256": "d2dfcb1280d97f1144fe77bc735de81bd654dd288533334b9a66128848da176a"
+      "count": 34,
+      "sha256": "e98294ae686f9bc34e19436bf368f5de1d0e7ca54b125420a4ae5834a906deb1"
     },
     {
-      "id": "spanisch/top1000-08",
-      "path": "listen/spanisch/top1000-08.md",
-      "title": "Spanisch Top 1000 – Teil 8 (Wörter 701–800)",
+      "id": "spanisch/08-essen-trinken",
+      "path": "listen/spanisch/08-essen-trinken.md",
+      "title": "Spanisch 08 – Essen & Trinken",
       "from": "de",
       "to": "es",
       "profiles": [
         "Lotte"
       ],
-      "count": 100,
-      "sha256": "2813614ec83b17ee70873223d1ff4eb20276d04210ee45399e863e737f75f5fe"
+      "count": 33,
+      "sha256": "bff706c829bbef7f4b604c9a635fc67dade2a99935121b92c215178ff8de4cb5"
     },
     {
-      "id": "spanisch/top1000-09",
-      "path": "listen/spanisch/top1000-09.md",
-      "title": "Spanisch Top 1000 – Teil 9 (Wörter 801–900)",
+      "id": "spanisch/09-familie",
+      "path": "listen/spanisch/09-familie.md",
+      "title": "Spanisch 09 – Familie & Liebe",
       "from": "de",
       "to": "es",
       "profiles": [
         "Lotte"
       ],
-      "count": 100,
-      "sha256": "3fd64347acb132ff3c792cc98e76621651984cc700d42cb7d4640752ab34e492"
+      "count": 34,
+      "sha256": "131be8b48208ef12cbb15c618852744676a1bcea8b0c098e67c49030037cf266"
     },
     {
-      "id": "spanisch/top1000-10",
-      "path": "listen/spanisch/top1000-10.md",
-      "title": "Spanisch Top 1000 – Teil 10 (Wörter 901–1000)",
+      "id": "spanisch/10-eigenschaften",
+      "path": "listen/spanisch/10-eigenschaften.md",
+      "title": "Spanisch 10 – Groß, klein, schnell, stark",
       "from": "de",
       "to": "es",
       "profiles": [
         "Lotte"
       ],
-      "count": 100,
-      "sha256": "a4faa5ad605a379df2f030704b92b6f0a83db2e57452ae568e467fb9e50f7312"
+      "count": 29,
+      "sha256": "538bcba9f9d211406e4718a491e5b6aaf3c7948ed2274ad2ffd3bcbb59d3d85c"
+    },
+    {
+      "id": "spanisch/11-bewerten",
+      "path": "listen/spanisch/11-bewerten.md",
+      "title": "Spanisch 11 – Gut, schlecht, wichtig",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 42,
+      "sha256": "4832028535f600db24d50f87063c54c03e5cfa87087d691fa206b3f5afe440ee"
+    },
+    {
+      "id": "spanisch/12-mengen",
+      "path": "listen/spanisch/12-mengen.md",
+      "title": "Spanisch 12 – Alles, nichts, etwas – Mengenwörter",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 21,
+      "sha256": "9cf418a217d83abe453142e0704c78df3eefbfdcc996a4fd391f781de9dcb498"
+    },
+    {
+      "id": "spanisch/13-adverbien",
+      "path": "listen/spanisch/13-adverbien.md",
+      "title": "Spanisch 13 – Wie, wie oft, wie sicher? (Adverbien)",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 23,
+      "sha256": "f7aee2ff59f06edc741b8844e3b7481355020c6742697def4718a52e55c13466"
+    },
+    {
+      "id": "spanisch/14-satzbausteine",
+      "path": "listen/spanisch/14-satzbausteine.md",
+      "title": "Spanisch 14 – Satzbausteine (Artikel, Präpositionen, Konjunktionen)",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 35,
+      "sha256": "fc51f2b34577d8962947869e03772d7efb67fda35ad07e3b137856dcb0e7b6c6"
+    },
+    {
+      "id": "spanisch/15-zuhause",
+      "path": "listen/spanisch/15-zuhause.md",
+      "title": "Spanisch 15 – Zuhause",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 23,
+      "sha256": "8ad6d264e123bc059df7a0bbefa45aee431a36a24633feeee9fc693c93d1c0d9"
+    },
+    {
+      "id": "spanisch/16-alltag",
+      "path": "listen/spanisch/16-alltag.md",
+      "title": "Spanisch 16 – Alltag & Haushalt",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 30,
+      "sha256": "9b01a06ece03d7f5bbfce97eced6a1249c853afd9ee65b6dd8e9fe4373fd4929"
+    },
+    {
+      "id": "spanisch/17-einkaufen",
+      "path": "listen/spanisch/17-einkaufen.md",
+      "title": "Spanisch 17 – Einkaufen & Geld",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 22,
+      "sha256": "fbf50ea9b293243b5bccf7e820df5447ab512679b435642e0b53fde0526cbb94"
+    },
+    {
+      "id": "spanisch/18-verkehr-reisen",
+      "path": "listen/spanisch/18-verkehr-reisen.md",
+      "title": "Spanisch 18 – Verkehr, Reisen & Stadt",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 36,
+      "sha256": "364b2191fd7231677077225f1b7a8064a7d97165ea5dff9f77da1eb835e67512"
+    },
+    {
+      "id": "spanisch/19-lage-richtung",
+      "path": "listen/spanisch/19-lage-richtung.md",
+      "title": "Spanisch 19 – Lage & Richtung",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 25,
+      "sha256": "87c00823703837647ddda4f186dace7770cbf957dd601ff918c689746680d88c"
+    },
+    {
+      "id": "spanisch/20-restaurant",
+      "path": "listen/spanisch/20-restaurant.md",
+      "title": "Spanisch 20 – Mahlzeiten & Restaurant",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 20,
+      "sha256": "304ec65a0540b4a4b597ee40f1d247f5986286b070c1df4d14b7e189c86d61c1"
+    },
+    {
+      "id": "spanisch/21-geben-nehmen",
+      "path": "listen/spanisch/21-geben-nehmen.md",
+      "title": "Spanisch 21 – Geben, nehmen, bringen",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 26,
+      "sha256": "a7742931c02316be016bc7f578a6513657318711be8418f2a14d1196712814d4"
+    },
+    {
+      "id": "spanisch/22-bewegung",
+      "path": "listen/spanisch/22-bewegung.md",
+      "title": "Spanisch 22 – Bewegung",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 24,
+      "sha256": "50c9b35f82123e59ec21a5aafe385ed6171aa081d0f21db81fada6fb128316fb"
+    },
+    {
+      "id": "spanisch/23-koerper-kleidung",
+      "path": "listen/spanisch/23-koerper-kleidung.md",
+      "title": "Spanisch 23 – Körper & Kleidung",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 35,
+      "sha256": "c7251bcb9eca1d4774da1058f3cce1bbb2a6e457aa2cb1f79924413516a58ae9"
+    },
+    {
+      "id": "spanisch/24-gesundheit-notfall",
+      "path": "listen/spanisch/24-gesundheit-notfall.md",
+      "title": "Spanisch 24 – Gesundheit & Notfall",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 24,
+      "sha256": "a193d140059c3275cba58dd2ce6a1dbeb3129567cab30b45afbce819afb64c21"
+    },
+    {
+      "id": "spanisch/25-farben-sinne",
+      "path": "listen/spanisch/25-farben-sinne.md",
+      "title": "Spanisch 25 – Farben & Sinne",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 21,
+      "sha256": "c6ad0181e736df037da11d88189dbbba68d7eb32623f35a3578bf07974f206d4"
+    },
+    {
+      "id": "spanisch/26-wetter-natur",
+      "path": "listen/spanisch/26-wetter-natur.md",
+      "title": "Spanisch 26 – Wetter, Natur & Tiere",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 36,
+      "sha256": "b6e875781814c21cb4d83b34e21e4f94d0ab00fe76c92c8e55d724019a3084ca"
+    },
+    {
+      "id": "spanisch/27-gefuehle",
+      "path": "listen/spanisch/27-gefuehle.md",
+      "title": "Spanisch 27 – Gefühle",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 34,
+      "sha256": "70d41e0d8ffff498289491d0a58082f2d349572e77b673df05e802a9d1f95074"
+    },
+    {
+      "id": "spanisch/28-charakter",
+      "path": "listen/spanisch/28-charakter.md",
+      "title": "Spanisch 28 – Wie ist jemand? (Charakter & Aussehen)",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 20,
+      "sha256": "c3d6dc27273cedecb0050c7524ddece23db6afa5f2bedb9cabb7681c6c8792d2"
+    },
+    {
+      "id": "spanisch/29-sprechen",
+      "path": "listen/spanisch/29-sprechen.md",
+      "title": "Spanisch 29 – Sprechen & Fragen",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 26,
+      "sha256": "53374214501262e2738b77fb9a9e3c35281a26c69805a648655190971bd347f3"
+    },
+    {
+      "id": "spanisch/30-denken",
+      "path": "listen/spanisch/30-denken.md",
+      "title": "Spanisch 30 – Denken & Wissen",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 27,
+      "sha256": "724b2452151a37cf1e936149cf7fd1787745e32f43b8ce6ce83dbe8ddef35f91"
+    },
+    {
+      "id": "spanisch/31-schule",
+      "path": "listen/spanisch/31-schule.md",
+      "title": "Spanisch 31 – Schule & Studium",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 20,
+      "sha256": "790d4d44fa547c8a3360742a6434d4f7f4aac6ee7ff33062a3408711dc522aa9"
+    },
+    {
+      "id": "spanisch/32-sprache-schrift",
+      "path": "listen/spanisch/32-sprache-schrift.md",
+      "title": "Spanisch 32 – Sprache, Lesen & Schreiben",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 19,
+      "sha256": "622f6a51c867c54958be75b78f640b2e1dcda5ea15240db02de33ebe507ecaf9"
+    },
+    {
+      "id": "spanisch/33-arbeit",
+      "path": "listen/spanisch/33-arbeit.md",
+      "title": "Spanisch 33 – Arbeit & Beruf",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 27,
+      "sha256": "5586471dc051699f0be64cfdb963d1997c76a8c7464d7bee37512f19182b773b"
+    },
+    {
+      "id": "spanisch/34-freizeit",
+      "path": "listen/spanisch/34-freizeit.md",
+      "title": "Spanisch 34 – Freizeit, Sport & Feste",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 21,
+      "sha256": "6e575f0779edac59379371f064f8edf3b0d3b61da88fc3393d8ccb762c6ed40e"
+    },
+    {
+      "id": "spanisch/35-medien-post",
+      "path": "listen/spanisch/35-medien-post.md",
+      "title": "Spanisch 35 – Medien, Telefon & Post",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 17,
+      "sha256": "7ba99430f398cb07c5e2981f62df90abfe4401bcea387f629144afada1ae225e"
+    },
+    {
+      "id": "spanisch/36-veraenderung",
+      "path": "listen/spanisch/36-veraenderung.md",
+      "title": "Spanisch 36 – Anfang, Ende & Veränderung",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 29,
+      "sha256": "01520b06ba804867b2a31c5f9216de92bc7d3599e524c5f9b69d10f0f05c3e79"
+    },
+    {
+      "id": "spanisch/37-gesellschaft",
+      "path": "listen/spanisch/37-gesellschaft.md",
+      "title": "Spanisch 37 – Gesellschaft & Welt",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 26,
+      "sha256": "e75621f0ec93cbb3f7876ba00d13ec47281f96cee35bc6a4d376b8c6527b0a41"
+    },
+    {
+      "id": "spanisch/38-begriffe-1",
+      "path": "listen/spanisch/38-begriffe-1.md",
+      "title": "Spanisch 38 – Teil, Art, Fall – wichtige Begriffe 1",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 28,
+      "sha256": "2ff736c1bb220b565137ce6d266047b4f515b19fb86ca422dd7add2ba6649d3d"
+    },
+    {
+      "id": "spanisch/39-begriffe-2",
+      "path": "listen/spanisch/39-begriffe-2.md",
+      "title": "Spanisch 39 – Situation, Grund, Möglichkeit – wichtige Begriffe 2",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 21,
+      "sha256": "f094c09bfb6a403cf72de70d4e5421c306b84142b7cd33b0b8dcd057b5667bb4"
     }
   ]
 }
