@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-04T16:40:42Z",
+  "generatedAt": "2026-10-06T06:49:39Z",
   "lists": [
     {
       "id": "englisch/c5-welcome-teil-1",
@@ -229,6 +229,126 @@
       ],
       "count": 42,
       "sha256": "4ad16839dd4dc28730cb232679c8646e510325d2b8a08e1559be4311e1586a14"
+    },
+    {
+      "id": "spanisch/top1000-01",
+      "path": "listen/spanisch/top1000-01.md",
+      "title": "Spanisch Top 1000 – Teil 1 (Wörter 1–100)",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 100,
+      "sha256": "503ef7d1e0a9607feba0e9ceb428e94caad485124b15677d6ab86f99d020aa51"
+    },
+    {
+      "id": "spanisch/top1000-02",
+      "path": "listen/spanisch/top1000-02.md",
+      "title": "Spanisch Top 1000 – Teil 2 (Wörter 101–200)",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 100,
+      "sha256": "47c2b0ece0dcee3b9d6c84f975412f6dcc5876ada0cea771ee2727925539f0fa"
+    },
+    {
+      "id": "spanisch/top1000-03",
+      "path": "listen/spanisch/top1000-03.md",
+      "title": "Spanisch Top 1000 – Teil 3 (Wörter 201–300)",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 100,
+      "sha256": "33fda9d8d83912c6983161ae0eac8f33945665e93d6e7c01d3090f642f769113"
+    },
+    {
+      "id": "spanisch/top1000-04",
+      "path": "listen/spanisch/top1000-04.md",
+      "title": "Spanisch Top 1000 – Teil 4 (Wörter 301–400)",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 100,
+      "sha256": "cbc03395984170a88bb42b4b1e6248fc82e9c52ce2c2c0bef8cbd2e3a551e328"
+    },
+    {
+      "id": "spanisch/top1000-05",
+      "path": "listen/spanisch/top1000-05.md",
+      "title": "Spanisch Top 1000 – Teil 5 (Wörter 401–500)",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 100,
+      "sha256": "e0513b974964e1366ca59dcb7a8de45cf68c338d141c0a280fd61382eea7d322"
+    },
+    {
+      "id": "spanisch/top1000-06",
+      "path": "listen/spanisch/top1000-06.md",
+      "title": "Spanisch Top 1000 – Teil 6 (Wörter 501–600)",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 100,
+      "sha256": "60e50b202dd93cc8b27fbf08ff80f1a93e3c9c38c426466603d78ed34ae34507"
+    },
+    {
+      "id": "spanisch/top1000-07",
+      "path": "listen/spanisch/top1000-07.md",
+      "title": "Spanisch Top 1000 – Teil 7 (Wörter 601–700)",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 100,
+      "sha256": "d2dfcb1280d97f1144fe77bc735de81bd654dd288533334b9a66128848da176a"
+    },
+    {
+      "id": "spanisch/top1000-08",
+      "path": "listen/spanisch/top1000-08.md",
+      "title": "Spanisch Top 1000 – Teil 8 (Wörter 701–800)",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 100,
+      "sha256": "2813614ec83b17ee70873223d1ff4eb20276d04210ee45399e863e737f75f5fe"
+    },
+    {
+      "id": "spanisch/top1000-09",
+      "path": "listen/spanisch/top1000-09.md",
+      "title": "Spanisch Top 1000 – Teil 9 (Wörter 801–900)",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 100,
+      "sha256": "3fd64347acb132ff3c792cc98e76621651984cc700d42cb7d4640752ab34e492"
+    },
+    {
+      "id": "spanisch/top1000-10",
+      "path": "listen/spanisch/top1000-10.md",
+      "title": "Spanisch Top 1000 – Teil 10 (Wörter 901–1000)",
+      "from": "de",
+      "to": "es",
+      "profiles": [
+        "Lotte"
+      ],
+      "count": 100,
+      "sha256": "a4faa5ad605a379df2f030704b92b6f0a83db2e57452ae568e467fb9e50f7312"
     }
   ]
 }
