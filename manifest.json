@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-06T06:49:39Z",
+  "generatedAt": "2026-10-06T08:45:22Z",
   "lists": [
     {
       "id": "englisch/c5-welcome-teil-1",
@@ -51,124 +51,472 @@
       "sha256": "1cc5dda4cf3f6c221307c31ced16b3940105e379ea3c9c6b40e26aae21eace91"
     },
     {
-      "id": "japanisch/top1000-01",
-      "path": "listen/japanisch/top1000-01.md",
-      "title": "Japanisch Top 1000 – Teil 1 (Wörter 1–100)",
+      "id": "japanisch/01-begruessung",
+      "path": "listen/japanisch/01-begruessung.md",
+      "title": "Japanisch 01 – Begrüßung & Höflichkeit",
       "from": "de",
       "to": "ja",
       "profiles": [
         "Emanuel"
       ],
-      "count": 100,
-      "sha256": "8135f6b98d2140932234b0ad8c39fe93f4a3d697e946d6789847176120002c88"
+      "count": 34,
+      "sha256": "a2acba5fdb96baf851022c87112a18304c9b052d213ce3c2d0abba86c3dd898e"
     },
     {
-      "id": "japanisch/top1000-02",
-      "path": "listen/japanisch/top1000-02.md",
-      "title": "Japanisch Top 1000 – Teil 2 (Wörter 101–200)",
+      "id": "japanisch/02-menschen",
+      "path": "listen/japanisch/02-menschen.md",
+      "title": "Japanisch 02 – Ich, du & die anderen",
       "from": "de",
       "to": "ja",
       "profiles": [
         "Emanuel"
       ],
-      "count": 100,
-      "sha256": "906a7336bdcfb36e72b12a9c02d63a260193462ccdf7a2e6896a3f55d9b54ca0"
+      "count": 37,
+      "sha256": "8b7011c090c12b8adfa40eaec96bb0c6208b478316913b6b182ad61028c990e5"
     },
     {
-      "id": "japanisch/top1000-03",
-      "path": "listen/japanisch/top1000-03.md",
-      "title": "Japanisch Top 1000 – Teil 3 (Wörter 201–300)",
+      "id": "japanisch/03-fragewoerter",
+      "path": "listen/japanisch/03-fragewoerter.md",
+      "title": "Japanisch 03 – Fragewörter",
       "from": "de",
       "to": "ja",
       "profiles": [
         "Emanuel"
       ],
-      "count": 100,
-      "sha256": "b3f0030abdd3072facb6df37faa3fd99f212a85a0da40f74a0abdbda0a52955c"
+      "count": 23,
+      "sha256": "1e493f1dd3c4a726500ed1d689c5eb9f8a03c1a11a7408c1aaaf007e508c7654"
     },
     {
-      "id": "japanisch/top1000-04",
-      "path": "listen/japanisch/top1000-04.md",
-      "title": "Japanisch Top 1000 – Teil 4 (Wörter 301–400)",
+      "id": "japanisch/04-hier-da-dort",
+      "path": "listen/japanisch/04-hier-da-dort.md",
+      "title": "Japanisch 04 – Hier, da, dort (こ・そ・あ)",
       "from": "de",
       "to": "ja",
       "profiles": [
         "Emanuel"
       ],
-      "count": 100,
-      "sha256": "693d962972c8fac46314360889b28148670e89369eb7ea53abd027f36e43329b"
+      "count": 23,
+      "sha256": "d7b911a0fe46d3a0b126d2c6ea4ec08c908251051e70b77ace788bad5c32693d"
     },
     {
-      "id": "japanisch/top1000-05",
-      "path": "listen/japanisch/top1000-05.md",
-      "title": "Japanisch Top 1000 – Teil 5 (Wörter 401–500)",
+      "id": "japanisch/05-wichtige-verben",
+      "path": "listen/japanisch/05-wichtige-verben.md",
+      "title": "Japanisch 05 – Die wichtigsten Verben",
       "from": "de",
       "to": "ja",
       "profiles": [
         "Emanuel"
       ],
-      "count": 100,
-      "sha256": "05b3ca73623b93e0c6a29f5d8e3da9c1f277d5b9a29b8fe746b1406e97f44745"
+      "count": 30,
+      "sha256": "408ec9f038c8dae381f144cc27137fa930a745d169bfb26f2d9c7edc02811890"
     },
     {
-      "id": "japanisch/top1000-06",
-      "path": "listen/japanisch/top1000-06.md",
-      "title": "Japanisch Top 1000 – Teil 6 (Wörter 501–600)",
+      "id": "japanisch/06-zahlen",
+      "path": "listen/japanisch/06-zahlen.md",
+      "title": "Japanisch 06 – Zahlen & Zählen",
       "from": "de",
       "to": "ja",
       "profiles": [
         "Emanuel"
       ],
-      "count": 100,
-      "sha256": "a7d6de04e2d0dd92467f06af28d30b2c551b21a236f28c73beed3a8f6434a4f2"
+      "count": 42,
+      "sha256": "fae85e6da73614782e1da320effa0734924292f9ddd9d5aa60a694b48e5d9bc2"
     },
     {
-      "id": "japanisch/top1000-07",
-      "path": "listen/japanisch/top1000-07.md",
-      "title": "Japanisch Top 1000 – Teil 7 (Wörter 601–700)",
+      "id": "japanisch/07-uhrzeit-kalender",
+      "path": "listen/japanisch/07-uhrzeit-kalender.md",
+      "title": "Japanisch 07 – Uhrzeit & Kalender",
       "from": "de",
       "to": "ja",
       "profiles": [
         "Emanuel"
       ],
-      "count": 100,
-      "sha256": "855471456c6a63bbaf087dd8e3b0decfccb0851fa88918e6b8763744904e7478"
+      "count": 36,
+      "sha256": "894b390971827520e5aca901e6fee1524af64c089030646c647e9b6d5fe1b2b8"
     },
     {
-      "id": "japanisch/top1000-08",
-      "path": "listen/japanisch/top1000-08.md",
-      "title": "Japanisch Top 1000 – Teil 8 (Wörter 701–800)",
+      "id": "japanisch/08-heute-morgen-gestern",
+      "path": "listen/japanisch/08-heute-morgen-gestern.md",
+      "title": "Japanisch 08 – Heute, morgen, gestern",
       "from": "de",
       "to": "ja",
       "profiles": [
         "Emanuel"
       ],
-      "count": 100,
-      "sha256": "7aca1a50fbb731c5bf99cc444dcdfb0ee6a22d49b66a2421a9d11f91f84c17af"
+      "count": 36,
+      "sha256": "d91761605b0778e767439d03e364e2369bcc0ceea222f31e2693ceca5009b7e1"
     },
     {
-      "id": "japanisch/top1000-09",
-      "path": "listen/japanisch/top1000-09.md",
-      "title": "Japanisch Top 1000 – Teil 9 (Wörter 801–900)",
+      "id": "japanisch/09-frueher-jetzt-spaeter",
+      "path": "listen/japanisch/09-frueher-jetzt-spaeter.md",
+      "title": "Japanisch 09 – Früher, jetzt, später",
       "from": "de",
       "to": "ja",
       "profiles": [
         "Emanuel"
       ],
-      "count": 100,
-      "sha256": "d6ab6ac0b84e9744ce3eee27c6a8f049bb7e8273d13fdb1f4da969d1a0f73372"
+      "count": 35,
+      "sha256": "a74f51f19b8e0e5979e45d26e2d819087a8d457afcabb51d0a6b249cee61fec1"
     },
     {
-      "id": "japanisch/top1000-10",
-      "path": "listen/japanisch/top1000-10.md",
-      "title": "Japanisch Top 1000 – Teil 10 (Wörter 901–1000)",
+      "id": "japanisch/10-essen-trinken",
+      "path": "listen/japanisch/10-essen-trinken.md",
+      "title": "Japanisch 10 – Essen & Trinken",
       "from": "de",
       "to": "ja",
       "profiles": [
         "Emanuel"
       ],
-      "count": 100,
-      "sha256": "53b3497a9ed24bfcb58ed7c2913d0ce97521bd3c15e5928a7fcc78be0f13597f"
+      "count": 39,
+      "sha256": "74c16655aece2332a5b003261dd05c53df0fc457bee50dc5fc006f52a767543b"
+    },
+    {
+      "id": "japanisch/11-familie",
+      "path": "listen/japanisch/11-familie.md",
+      "title": "Japanisch 11 – Familie",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 36,
+      "sha256": "0b1d8b66fbe7ff76520c7744a88c7afde415a169c42330f2c07f5414f5988ccd"
+    },
+    {
+      "id": "japanisch/12-eigenschaften",
+      "path": "listen/japanisch/12-eigenschaften.md",
+      "title": "Japanisch 12 – Groß, klein, schnell, stark",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 34,
+      "sha256": "008549beaece22af5daa55247a9a69450e5068e80316facd89cc6429dfbb0171"
+    },
+    {
+      "id": "japanisch/13-bewerten",
+      "path": "listen/japanisch/13-bewerten.md",
+      "title": "Japanisch 13 – Gut, schlecht, wichtig",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 39,
+      "sha256": "d13c949a96d814081c4c7058b8662dba38d221c7be4c52db7182b6fa329ac8ec"
+    },
+    {
+      "id": "japanisch/14-adverbien",
+      "path": "listen/japanisch/14-adverbien.md",
+      "title": "Japanisch 14 – Wie viel, wie oft, wie? (Adverbien)",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 42,
+      "sha256": "c1ef76d1bbb6c5252217d589e246fb13f265e306830a758356cf0c03af1ee5ca"
+    },
+    {
+      "id": "japanisch/15-satzbausteine",
+      "path": "listen/japanisch/15-satzbausteine.md",
+      "title": "Japanisch 15 – Satzbausteine",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 34,
+      "sha256": "be4c99e83114f538682ed3a059e704707f87432bc8bbe702ee4df20b87ef3e21"
+    },
+    {
+      "id": "japanisch/16-zuhause",
+      "path": "listen/japanisch/16-zuhause.md",
+      "title": "Japanisch 16 – Zuhause",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 38,
+      "sha256": "62bc39a0b7e755d5b2b8651ac69cf36213fe29c157e065e5bbd8f35a60c58baf"
+    },
+    {
+      "id": "japanisch/17-alltag",
+      "path": "listen/japanisch/17-alltag.md",
+      "title": "Japanisch 17 – Alltag & Haushalt",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 39,
+      "sha256": "3853b4e124cd3f92c070732e2aebbbd1390d5ae3eca7f7eed660a6c13b2d888a"
+    },
+    {
+      "id": "japanisch/18-einkaufen",
+      "path": "listen/japanisch/18-einkaufen.md",
+      "title": "Japanisch 18 – Einkaufen & Geld",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 22,
+      "sha256": "7efe3df3f9026a484caead15679bc38e1addada9473795a6a1d25c5644b820d3"
+    },
+    {
+      "id": "japanisch/19-verkehr-reisen",
+      "path": "listen/japanisch/19-verkehr-reisen.md",
+      "title": "Japanisch 19 – Verkehr & Reisen",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 37,
+      "sha256": "efbb01f2271b9361ecbb534ecc93ff31ba341addb1154dc54574496dc6a07c5c"
+    },
+    {
+      "id": "japanisch/20-stadt-wege",
+      "path": "listen/japanisch/20-stadt-wege.md",
+      "title": "Japanisch 20 – In der Stadt unterwegs",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 38,
+      "sha256": "e79da57e20ca56a9b244b64d3e27d0071c8d382553ad3c9efac03319e6e040e8"
+    },
+    {
+      "id": "japanisch/21-lage-richtung",
+      "path": "listen/japanisch/21-lage-richtung.md",
+      "title": "Japanisch 21 – Lage & Richtung",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 27,
+      "sha256": "9cdd0dfcb2f3f66fa65138702865afe39da5262ae1c06217757b93355e936b8b"
+    },
+    {
+      "id": "japanisch/22-restaurant",
+      "path": "listen/japanisch/22-restaurant.md",
+      "title": "Japanisch 22 – Mahlzeiten & Restaurant",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 29,
+      "sha256": "f0846f755ac47d934135ee1131f09174822daabb9b31516d0c781607aff15c18"
+    },
+    {
+      "id": "japanisch/23-geben-nehmen",
+      "path": "listen/japanisch/23-geben-nehmen.md",
+      "title": "Japanisch 23 – Geben, nehmen, bringen",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 29,
+      "sha256": "416b46c97461c2afadaac67c2c34a8fbb8754c29733b44b67044e806202580a1"
+    },
+    {
+      "id": "japanisch/24-bewegung",
+      "path": "listen/japanisch/24-bewegung.md",
+      "title": "Japanisch 24 – Bewegung",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 25,
+      "sha256": "4b14826fe8241e29c125e8854c5542553a65f74854b07aff96f04f7b57e21638"
+    },
+    {
+      "id": "japanisch/25-koerper",
+      "path": "listen/japanisch/25-koerper.md",
+      "title": "Japanisch 25 – Körper",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 27,
+      "sha256": "0e3419f2e552dfe65a8024b8e549963b99e6909521655c30eb2c308308cb7363"
+    },
+    {
+      "id": "japanisch/26-gesundheit-notfall",
+      "path": "listen/japanisch/26-gesundheit-notfall.md",
+      "title": "Japanisch 26 – Gesundheit & Notfall",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 32,
+      "sha256": "78c6d55352dc8554b1ae837ce469a5a50f396030610f444cbae8583174d0a2b9"
+    },
+    {
+      "id": "japanisch/27-kleidung",
+      "path": "listen/japanisch/27-kleidung.md",
+      "title": "Japanisch 27 – Kleidung",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 27,
+      "sha256": "b6097be31a2e4446c812726f5dc8fdd3849c0259580f01acde0e5efb1282d128"
+    },
+    {
+      "id": "japanisch/28-farben-sinne",
+      "path": "listen/japanisch/28-farben-sinne.md",
+      "title": "Japanisch 28 – Farben & Sinne",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 25,
+      "sha256": "3373c2f80a4d68ae1c0fed638811eaec676b8ca7de176cb7c6bc8097613d754d"
+    },
+    {
+      "id": "japanisch/29-wetter",
+      "path": "listen/japanisch/29-wetter.md",
+      "title": "Japanisch 29 – Wetter & Jahreszeiten",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 23,
+      "sha256": "5f2294022db19f4f149bbfeb324efe06c8e70bf2e88f813aef9ac9f392bfb274"
+    },
+    {
+      "id": "japanisch/30-natur-tiere",
+      "path": "listen/japanisch/30-natur-tiere.md",
+      "title": "Japanisch 30 – Natur & Tiere",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 30,
+      "sha256": "a90c963103bda363c45ce72d33df7f883fc959f2cb8559bf19607ece6018bc0f"
+    },
+    {
+      "id": "japanisch/31-gefuehle",
+      "path": "listen/japanisch/31-gefuehle.md",
+      "title": "Japanisch 31 – Gefühle & Charakter",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 37,
+      "sha256": "4a7b5536d0a8780d3d15a31b3eaadf4c2b7e9fb2eb8351cd5395a5968f884383"
+    },
+    {
+      "id": "japanisch/32-sprechen-denken",
+      "path": "listen/japanisch/32-sprechen-denken.md",
+      "title": "Japanisch 32 – Sprechen & Denken",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 34,
+      "sha256": "f6664b3488d624dc35d6d01cacb16c23cd1163df68416a148d3a819197c821b6"
+    },
+    {
+      "id": "japanisch/33-schule",
+      "path": "listen/japanisch/33-schule.md",
+      "title": "Japanisch 33 – Schule & Studium",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 34,
+      "sha256": "6232216ab83b136fbd3f52ba648f6b9a2d0e15c3ea829a3a14d4e8e3cad6278c"
+    },
+    {
+      "id": "japanisch/34-sprache-schrift",
+      "path": "listen/japanisch/34-sprache-schrift.md",
+      "title": "Japanisch 34 – Sprache, Lesen & Schreiben",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 34,
+      "sha256": "99a6795ebe09011922ca43f4ac703e691dc4d2c8c1ee9c6807537c3e53c407fb"
+    },
+    {
+      "id": "japanisch/35-arbeit",
+      "path": "listen/japanisch/35-arbeit.md",
+      "title": "Japanisch 35 – Arbeit & Beruf",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 27,
+      "sha256": "74c9c9d45c1e4cef154b220c394d56458e2fa8f08ba5ce28127438a464b25b25"
+    },
+    {
+      "id": "japanisch/36-freizeit",
+      "path": "listen/japanisch/36-freizeit.md",
+      "title": "Japanisch 36 – Freizeit, Sport & Feste",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 36,
+      "sha256": "7ad499642e37ab52908189bfcd50b359c1c778e70896928fdbcbc98989746057"
+    },
+    {
+      "id": "japanisch/37-medien-post",
+      "path": "listen/japanisch/37-medien-post.md",
+      "title": "Japanisch 37 – Medien, Telefon & Post",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 22,
+      "sha256": "70b5ce9639d6f782a1fa9f327c30e9065673d19588dca5bb6b809ca92c5fa3e1"
+    },
+    {
+      "id": "japanisch/38-veraenderung",
+      "path": "listen/japanisch/38-veraenderung.md",
+      "title": "Japanisch 38 – Anfang, Ende & Veränderung",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 23,
+      "sha256": "8b3d720f186e3e76836f606bc408ad04d94dd3785d5548b20fe5a4c06f9168ac"
+    },
+    {
+      "id": "japanisch/39-gesellschaft",
+      "path": "listen/japanisch/39-gesellschaft.md",
+      "title": "Japanisch 39 – Gesellschaft & Welt",
+      "from": "de",
+      "to": "ja",
+      "profiles": [
+        "Emanuel"
+      ],
+      "count": 22,
+      "sha256": "adbe96c5bbdeab0b4060b9ce22db6f3deda4fdbd5ee2fe6718481280b04fa0a2"
     },
     {
       "id": "mathe/01-verliebte-zahlen",

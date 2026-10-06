@@ -24,7 +24,8 @@ laufen = to run / to walk   # mehrere Antworten mit /
 - Eine Vokabel pro Zeile: `Deutsch = Fremdsprache`
 - `| …` hängt einen Hinweis an, der beim Umdrehen angezeigt wird
 - `# …` ist ein Kommentar und wird ignoriert
-- `from`/`to`: Sprachcodes (`de`, `en`, `fr`, `es`, `it`, `la`) – für Fahne und Vorlesestimme
+- `from`/`to`: Sprachcodes (`de`, `en`, `fr`, `es`, `it`, `la`, `ja`) – für Fahne und Vorlesestimme
+- Japanisch: Kanji-Wörter als `漢字 / かな` (Lesung zuletzt), Kana-Wörter nur in Kana
 - `profiles`: wer die Liste automatisch bekommt; ohne diese Zeile bekommen sie alle
 - Ordner (z.B. `englisch/`) werden in der App als Gruppen angezeigt
 
