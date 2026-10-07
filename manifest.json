@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-06T11:23:07Z",
+  "generatedAt": "2026-10-07T16:10:13Z",
   "lists": [
     {
       "id": "englisch/c5-welcome-teil-1",
@@ -517,66 +517,6 @@
       ],
       "count": 22,
       "sha256": "adbe96c5bbdeab0b4060b9ce22db6f3deda4fdbd5ee2fe6718481280b04fa0a2"
-    },
-    {
-      "id": "mathe/01-verliebte-zahlen",
-      "path": "listen/mathe/01-verliebte-zahlen.md",
-      "title": "Mathe – Verliebte Zahlen (bis 10)",
-      "from": "de",
-      "to": "de",
-      "profiles": [
-        "Hilda"
-      ],
-      "count": 22,
-      "sha256": "b9e2730529a9df9fe3459abdcc7ac44348fe35dd89ef5fecf039a883377f0035"
-    },
-    {
-      "id": "mathe/02-plus-bis-20-ohne-zehneruebergang",
-      "path": "listen/mathe/02-plus-bis-20-ohne-zehneruebergang.md",
-      "title": "Mathe – Plus bis 20 (ohne Zehnerübergang)",
-      "from": "de",
-      "to": "de",
-      "profiles": [
-        "Hilda"
-      ],
-      "count": 30,
-      "sha256": "66e90f6ae03a22e85cceafdcc0ba7f153bda8eb778d9459f6db3027600ed611a"
-    },
-    {
-      "id": "mathe/03-plus-bis-20-mit-zehneruebergang",
-      "path": "listen/mathe/03-plus-bis-20-mit-zehneruebergang.md",
-      "title": "Mathe – Plus bis 20 (mit Zehnerübergang)",
-      "from": "de",
-      "to": "de",
-      "profiles": [
-        "Hilda"
-      ],
-      "count": 42,
-      "sha256": "c60251932455293f707f5c270666f71098bdbdefe071bbb60034098a2c448d3c"
-    },
-    {
-      "id": "mathe/04-minus-bis-20-ohne-zehneruebergang",
-      "path": "listen/mathe/04-minus-bis-20-ohne-zehneruebergang.md",
-      "title": "Mathe – Minus bis 20 (ohne Zehnerübergang)",
-      "from": "de",
-      "to": "de",
-      "profiles": [
-        "Hilda"
-      ],
-      "count": 30,
-      "sha256": "a97aaa0f2a2aefca66c69b51d304dd182bbb29726b77a514847dedbbeaf43e5b"
-    },
-    {
-      "id": "mathe/05-minus-bis-20-mit-zehneruebergang",
-      "path": "listen/mathe/05-minus-bis-20-mit-zehneruebergang.md",
-      "title": "Mathe – Minus bis 20 (mit Zehnerübergang)",
-      "from": "de",
-      "to": "de",
-      "profiles": [
-        "Hilda"
-      ],
-      "count": 42,
-      "sha256": "4ad16839dd4dc28730cb232679c8646e510325d2b8a08e1559be4311e1586a14"
     },
     {
       "id": "spanisch/01-begruessung",
