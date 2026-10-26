@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-07T16:10:13Z",
+  "generatedAt": "2026-10-26T12:25:36Z",
   "lists": [
     {
       "id": "englisch/c5-welcome-teil-1",
@@ -37,6 +37,18 @@
       ],
       "count": 16,
       "sha256": "cfcc3866dbb7dc0cb74ed7a1f4861dcc33eac9f32e5b99a8f0111d35a7845d27"
+    },
+    {
+      "id": "englisch/halloween",
+      "path": "listen/englisch/halloween.md",
+      "title": "Halloween",
+      "from": "de",
+      "to": "en",
+      "profiles": [
+        "Johann"
+      ],
+      "count": 41,
+      "sha256": "683f85bb1328c994cd049e71fa8b300fc8654815069edabc46bd64af5efbc910"
     },
     {
       "id": "englisch/schule-klassenzimmer",
