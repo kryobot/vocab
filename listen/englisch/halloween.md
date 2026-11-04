@@ -4,7 +4,8 @@ from: de
 to: en
 profiles: [Johann]
 ---
-# Gängige Halloween-Wörter, 5. Klasse
+# Wörter aus dem Heft („It's Halloween“) und weitere gängige Halloween-Wörter, 5. Klasse
+# Präpositionen und Sätze mit there is / there are: siehe halloween-wo-ist-was.md
 
 # Gruselgestalten
 die Hexe = witch
@@ -34,13 +35,30 @@ der Zauberspruch = spell
 die Maske = mask
 das Kostüm = costume
 
+# Häuser und Straße
+die Straße = street
+die Kirche = church
+das Fenster = window
+die Tür = door
+das Dach = roof
+der Schornstein = chimney
+die Kinder = children | ein Kind = a child
+
+# Draußen in der Nacht
+der Baum = tree
+das Blatt (am Baum) = leaf | Mehrzahl: leaves
+die Blätter = leaves | Einzahl: leaf
+der Himmel = sky | am Himmel = in the sky
+die Wolke = cloud
+der Mond = moon
+der Vollmond = full moon
+
 # Gruselorte
 das Spukhaus = haunted house
 der Friedhof = graveyard / cemetery
 der Grabstein = gravestone / tombstone
 der Sarg = coffin
 der Totenkopf, der Schädel = skull
-der Vollmond = full moon | der Mond = moon
 
 # Halloween feiern
 Fröhliches Halloween! = Happy Halloween!

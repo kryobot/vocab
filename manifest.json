@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T12:25:36Z",
+  "generatedAt": "2026-11-04T16:06:25Z",
   "lists": [
     {
       "id": "englisch/c5-welcome-teil-1",
@@ -39,6 +39,18 @@
       "sha256": "cfcc3866dbb7dc0cb74ed7a1f4861dcc33eac9f32e5b99a8f0111d35a7845d27"
     },
     {
+      "id": "englisch/halloween-wo-ist-was",
+      "path": "listen/englisch/halloween-wo-ist-was.md",
+      "title": "Halloween – Wo ist was? (there is / there are)",
+      "from": "de",
+      "to": "en",
+      "profiles": [
+        "Johann"
+      ],
+      "count": 14,
+      "sha256": "a94c1c818bcf81ab2b88385b7fb6bcd8df531574e0fc3d1f38d16516da8e1d85"
+    },
+    {
       "id": "englisch/halloween",
       "path": "listen/englisch/halloween.md",
       "title": "Halloween",
@@ -47,8 +59,8 @@
       "profiles": [
         "Johann"
       ],
-      "count": 41,
-      "sha256": "683f85bb1328c994cd049e71fa8b300fc8654815069edabc46bd64af5efbc910"
+      "count": 54,
+      "sha256": "f70f7363fce62ece51b9f7e12a88a3d38ef5c8864eaaef89863f34b42ce69c9f"
     },
     {
       "id": "englisch/schule-klassenzimmer",
