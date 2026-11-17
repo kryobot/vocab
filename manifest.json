@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-04T16:06:25Z",
+  "generatedAt": "2026-11-17T18:41:40Z",
   "lists": [
+    {
+      "id": "englisch/c5-a-good-start-teil-1",
+      "path": "listen/englisch/c5-a-good-start-teil-1.md",
+      "title": "Camden Market 5 – A good start (S. 46–48)",
+      "from": "de",
+      "to": "en",
+      "profiles": [
+        "Johann"
+      ],
+      "count": 30,
+      "sha256": "6fadfd8dd6e0f0f5570d3f01fbb58165afa6589ff21ce97916f247160498b0df"
+    },
+    {
+      "id": "englisch/c5-a-good-start-teil-2",
+      "path": "listen/englisch/c5-a-good-start-teil-2.md",
+      "title": "Camden Market 5 – A good start (S. 49)",
+      "from": "de",
+      "to": "en",
+      "profiles": [
+        "Johann"
+      ],
+      "count": 15,
+      "sha256": "34d6ba5cf5b50066c3581b442a776adc73d0fa457a7dca2a5b581684fdcc6de8"
+    },
+    {
+      "id": "englisch/c5-a-good-start-teil-3",
+      "path": "listen/englisch/c5-a-good-start-teil-3.md",
+      "title": "Camden Market 5 – A good start (S. 51–53)",
+      "from": "de",
+      "to": "en",
+      "profiles": [
+        "Johann"
+      ],
+      "count": 27,
+      "sha256": "e01c459d23f68328b5763329f3262b23c107fe6d70b1ec2ff96f19fab03f7726"
+    },
     {
       "id": "englisch/c5-welcome-teil-1",
       "path": "listen/englisch/c5-welcome-teil-1.md",
